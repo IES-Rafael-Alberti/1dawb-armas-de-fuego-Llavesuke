@@ -15,3 +15,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+B
+src/ArmaDeFuego.kt,5/3/53f5e47850f6669afb0e9592b3293371c343cf52
+;
+src/Main.kt,8/3/831e098b3d5e6d6ee3add3ecfc91ae1ff24b123e
+>
+src/Pistola.kt,9/f/9f2c0f693262c4ad3bee9256bfb7c3304c45a241
