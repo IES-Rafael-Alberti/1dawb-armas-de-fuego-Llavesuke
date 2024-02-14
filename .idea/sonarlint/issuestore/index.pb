@@ -27,3 +27,7 @@ B
 src/Rifle.kt,9/1/913187387b0c260fd406af473e0c503f7f32e8d4
 >
 src/Bazooka.kt,8/b/8b54cc4aab8873a153e52970974f4b5f4a22aa9c
+<
+src/Radio.kt,a/1/a16769532a46333a46a3873b84c097a554248e8f
+@
+src/TipoRadio.kt,7/2/72a42d84c37db40216f2db4c66a554afc3db39ff
