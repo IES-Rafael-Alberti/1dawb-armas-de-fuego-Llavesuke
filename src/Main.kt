@@ -5,7 +5,7 @@ val lanzapepos = Bazooka(30,"DUM-DUM", 10, TipoRadio.ENORME)
 
 val casita = Casa("NarutoO", 500)
 val cochecito = Coche("Toyota", "AE86", 150)
-val bocata = Bocadillo(listOf("Jamon, Lechuga, Pollo"))
+val bocata = Bocadillo(listOf("Jamon", "Lechuga", "Pollo"))
 
 val armas: List<Disparos> = listOf(pistolita, ak47, lanzapepos,casita, cochecito, bocata)
 
@@ -25,9 +25,4 @@ fun main(){
         }
         contadorDisparos++
     }
-
-    for (i in 1..9){
-        println()
-    }
-
 }
